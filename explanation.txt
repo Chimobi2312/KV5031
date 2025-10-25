@@ -1,0 +1,9 @@
+Imagine you are building a school with Lego blocks. You have student blocks, module blocks, and course blocks.
+
+Choice A is like giving each student block a list of the modules they are taking. If you want to know who is in a specific module, you have to go and check every single student block. That is a lot of work.
+
+Choice B is like giving each module block a list of the students in it. If you want to know what modules a student is taking, you have to check every single module block. That is also a lot of work.
+
+Choice C is the best way. It is like having a central office for the school. This office has a list of all the students, all the modules, and a master list of who is enrolled in what. If you want to know who is in a module, you just ask the office. If you want to know what modules a student is taking, you just ask the office. It is much more organized and efficient.
+
+This is a better way to build our Lego school because it is easier to manage and change things later on. It is a better example of object-oriented programming because we have a central object (the office) that manages the relationships between other objects (the students and modules).
